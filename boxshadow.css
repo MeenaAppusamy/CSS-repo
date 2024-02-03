@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(192, 178, 178);
+    
+  
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+ position: absolute;
+ top: 20%;
+ left: 20%;
+ right: 20%;
+ bottom: 20%;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+}
+div.card {
+    width: 200px;
+    height: 400px;
+    box-shadow: 8px 8px 5px khaki inset;
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+    border-radius: 20px;
+   
+  }
+  div.card1 {
+    width: 200px;
+    height: 400px;
+    text-align: center;
+    box-shadow: 8px 8px 5px khaki inset;
+    background-color: gainsboro;
+    border-radius: 20px;
+   
+  }
+  div.card2{
+    width: 200px;
+    height: 400px;
+    box-shadow: 8px 8px 5px khaki inset;
+    background-color: gainsboro;
+    border-radius: 20px;
+   
+    text-align: center;
+   
+  }
+  div.header {
+   
+    color: black;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  div.container {
+    padding: 10px;
+  }
+  hr.design {
+    border: 10px solid yellow;
+    border-radius: 2px;
+  }
+  hr.design1 {
+    border: 10px solid rgb(63, 111, 242);
+    border-radius: 2px;
+  }
+  hr.design2 {
+    border: 10px solid rgb(52, 123, 26);
+    border-radius: 2px;
+  }

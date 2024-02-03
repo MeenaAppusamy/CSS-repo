@@ -1,0 +1,38 @@
+.boxmodel {
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    font-size: 16px;
+    justify-content: flex-start;
+}
+
+.boxmodel1 {
+    width: 280px;
+    border: 20px solid blue;
+    background-color: cadetblue;
+    font-size: 16px;
+    margin-left: 100px;
+    margin-top: 10px;
+    justify-content: flex-start;
+}
+
+.boxmodel2 {
+    width: 300px;
+    border: 20px solid blue;
+    background-color: cadetblue;
+    font-size: 16px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 200px;
+    justify-content: flex-start;
+}
+
+.boxmodel3 {
+    width: 380px;
+    border: 20px solid blue;
+    background-color: cadetblue;
+    font-size: 16px;
+    margin: 20px;
+    margin-left: 300px;
+    justify-content: flex-start;
+}
